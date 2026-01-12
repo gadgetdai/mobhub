@@ -1,0 +1,132 @@
+{
+  "image_url": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a56-.jpg",
+  "network": {
+    "technology": "GSM / HSPA / LTE / 5G"
+  },
+  "launch": {
+    "announced": "2025-03-02",
+    "status": "Available. Released 2025-03-10"
+  },
+  "body": {
+    "dimensions": "162.2 x 77.5 x 7.4 mm",
+    "weight": "198 g",
+    "build": "Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame",
+    "sim": [
+      "Nano-SIM + eSIM",
+      "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 active)"
+    ],
+    "protection": "IP67 dust/water resistant (up to 1m for 30 min)"
+  },
+  "display": {
+    "type": "Super AMOLED, 120Hz, HDR10+",
+    "brightness": "1200 nits (HBM), 1900 nits (peak)",
+    "size": "6.7 inches",
+    "screen_to_body_ratio": "87.7%",
+    "resolution": "1080 x 2340 pixels",
+    "aspect_ratio": "19.5:9",
+    "density": "385 ppi",
+    "protection": "Corning Gorilla Glass Victus+, Mohs level 5"
+  },
+  "platform": {
+    "os": "Android 15, up to 6 major Android upgrades, One UI 7",
+    "chipset": "Exynos 1580 (4 nm)",
+    "cpu": "Octa-core (1x2.9 GHz Cortex-A720 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520)",
+    "gpu": "Xclipse 540"
+  },
+  "memory": {
+    "card_slot": "No",
+    "internal": [
+      "128GB 6GB RAM",
+      "128GB 8GB RAM",
+      "256GB 6GB RAM",
+      "256GB 8GB RAM",
+      "256GB 12GB RAM"
+    ],
+    "storage_type": "UFS 3.1"
+  },
+  "main_camera": {
+    "setup": "Triple",
+    "sensors": [
+      "50 MP, f/1.8 (wide), PDAF, OIS",
+      "12 MP, f/2.2 (ultrawide), 123°",
+      "5 MP (macro)"
+    ],
+    "features": ["Best Face", "LED flash", "panorama", "HDR"],
+    "video": "4K@30fps, 1080p@30/60fps, gyro-EIS"
+  },
+  "selfie_camera": {
+    "setup": "Single",
+    "sensor": "12 MP, f/2.2 (wide)",
+    "video": "4K@30fps, 1080p@30fps, 1080p@60fps (regional), 10-bit HDR"
+  },
+  "sound": {
+    "loudspeaker": "Yes, stereo speakers",
+    "jack_3_5mm": "No"
+  },
+  "comms": {
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "bluetooth": "5.3, A2DP, LE",
+    "positioning": ["GPS", "GALILEO", "GLONASS", "BDS", "QZSS"],
+    "nfc": "Yes (market/region dependent)",
+    "radio": "No",
+    "usb": "USB Type-C 2.0, OTG"
+  },
+  "features": {
+    "sensors": [
+      "Fingerprint (under display, optical)",
+      "Accelerometer",
+      "Gyro",
+      "Compass",
+      "Virtual Proximity Sensing"
+    ]
+  },
+  "battery": {
+    "type": "5000 mAh",
+    "charging": "45W wired, 65% in 30 min, 100% in 68 min"
+  },
+  "misc": {
+    "colors": ["Pink", "Olive", "Graphite", "Lightgray"],
+    "models": [
+      "SM-A566V",
+      "SM-A566B",
+      "SM-A566B/DS",
+      "SM-A566E",
+      "SM-A566E/DS",
+      "SM-A5660",
+      "SM-A566U",
+      "SM-A566U1",
+      "SM-A566W",
+      "SM-A566S"
+    ],
+    "sar": {
+      "head": "1.32 W/kg",
+      "eu_head": "0.61 W/kg",
+      "eu_body": "1.05 W/kg"
+    },
+    "price": {
+      "usd": "$399.99",
+      "eur": "€279.99",
+      "gbp": "£252.49",
+      "inr": "₹39,998"
+    }
+  },
+  "tests": {
+    "performance": {
+      "antutu_v10": 908689,
+      "geekbench_v6": 3899,
+      "3dmark_wild_life_extreme": 1332
+    },
+    "display": "1213 nits max brightness (measured)",
+    "loudspeaker": "-26.2 LUFS (Good)",
+    "battery": {
+      "active_use": "12:08h",
+      "endurance": "44:34h",
+      "cycles": 2000
+    },
+    "eu_label": {
+      "energy": "Class B",
+      "free_fall": "Class A (270 falls)",
+      "repairability": "Class C"
+    }
+  }
+}
